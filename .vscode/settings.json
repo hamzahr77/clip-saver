@@ -1,0 +1,6 @@
+﻿{
+  "python.defaultInterpreterPath": "C:\\Users\\hamza\\Downloads\\coding\\clip-saver\\backend\\.venv\\Scripts\\python.exe",
+  "python.analysis.extraPaths": [
+    "C:\\Users\\hamza\\Downloads\\coding\\clip-saver\\backend\\.venv\\Lib\\site-packages"
+  ]
+}
