@@ -105,6 +105,7 @@ Add tests with `pytest` in `backend/` and use React Testing Library for frontend
 ## Production notes
 
 * Do not run Flask with `debug=True` in production.
+* Updated for Render deployment fix.
 * Use a WSGI server (gunicorn on Linux or waitress on Windows).
 * Use Postgres or another production-ready DB and set `DATABASE_URL` accordingly.
 
