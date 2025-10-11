@@ -1,4 +1,4 @@
-const BASE = import.meta.env.VITE_API || "https://your-render-backend-url.onrender.com/api";
+const BASE = import.meta.env.VITE_API || "https://clip-saver.onrender.com/api";
 
 async function request(path, options = {}) {
   const res = await fetch(`${BASE}${path}`, {
